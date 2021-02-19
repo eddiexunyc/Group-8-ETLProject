@@ -1,2 +1,2 @@
-# Group-8-ETLProject
-Team Members Eddie Xu,Mackenzie Baucum and Vasudha Nair
+# Starbucks Stores vs Weather Location Analysis
+Team Members: Eddie Xu,Mackenzie Baucum and Vasudha Nair
